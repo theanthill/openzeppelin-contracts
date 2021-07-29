@@ -1,5 +1,5 @@
 {
-  "name": "openzeppelin-solidity",
+  "name": "@theanthill/openzeppelin-optimism",
   "description": "Secure Smart Contract library for Solidity",
   "version": "3.4.1-solc-0.7-2",
   "files": [
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts.git"
+    "url": "https://github.com/theanthill/openzeppelin-contracts"
   },
   "keywords": [
     "solidity",
@@ -41,7 +41,7 @@
   "author": "OpenZeppelin Community <maintainers@openzeppelin.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts/issues"
+    "url": "https://github.com/theanthill/openzeppelin-contracts/issues"
   },
   "homepage": "https://openzeppelin.com/contracts/",
   "devDependencies": {
